@@ -36,6 +36,7 @@ namespace array._9
                 Console.WriteLine(tal[i]);
             }
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
