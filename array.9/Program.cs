@@ -31,7 +31,7 @@ namespace array._9
 
             }
 
-            for (int i = 0; i < 10; i++)
+            fors (int i = 0; i < 10; i++)
             {
                 Console.WriteLine(tal[i]);
             }
